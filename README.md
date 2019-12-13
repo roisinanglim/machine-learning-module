@@ -3,17 +3,18 @@
 ## The Boston House Price Dataset Analysis
 
 This repository contains and analysis of the Boston House Price dataset. The report is created using a jupyter notebook. 
-The analysis consists of ;
 
-    Explanation and exploration of the boston house price dataset 
-    Inferential Statistics
-    Predictive linear regression modelling
-    Predictive modelling using neural networks
-    Comparison of the predict models results
+#### The analysis consists of -
 
-The following packages are used in this report and can all be downloaded as part of the anaconda package. 
+   -  Explanation and exploration of the boston house price dataset 
+   -  Inferential Statistics
+   -  Predictive linear regression modelling
+   -  Predictive modelling using neural networks
+   -  Comparison of the predict models results
 
 #### Python Packages
+The following packages are used in this report and can all be downloaded as part of the anaconda package.
+
     Numpy - This is used to conduct statistical analysis on the dataset
     Pandas - This is used to put the imported data into dataframes
     Matplotlib - This pakage is used to generate graphs, to interpret the data and grapically display the results
@@ -34,7 +35,7 @@ This section generates predictive linear regression models inorder to predict th
 This section generates a predictive model, using the Keras package, to generate neural networks inorder to predict the median house prices. 
 
 #### Comparison of the predict models results
-This section compares the results of the of the preditive models performance, in predicting the median house values.
+This section compares the results of the of the predition models performance, in predicting the median house values.
 
 #### How to download Anaconda
 All of the python packages used in this analysis can be download from the [Anaconda website](https://www.anaconda.com/distribution/?gclid=CjwKCAiAis3vBRBdEiwAHXB29CoFXA_ss1xhYpKUCLsw4XoaBmen7SUkiW9Nv36T8fUjvIOMK8hakBoCYjAQAvD_BwE).
