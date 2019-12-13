@@ -10,14 +10,14 @@ This repository contains and analysis of the Boston House Price dataset. The rep
    2. Inferential Statistics
    3. Predictive linear regression modelling
    4. Predictive modelling using neural networks
-   5. Comparison of the predict models results
+   5. Comparison of the predictive models results
 
 #### Python Packages
 The following packages are used in this report and can all be downloaded as part of the anaconda package.
 
    -  Numpy - This is used to conduct statistical analysis on the dataset
    -  Pandas - This is used to put the imported data into dataframes
-   -  Matplotlib - This pakage is used to generate graphs, to interpret the data and grapically display the results
+   -  Matplotlib/Seaborn - These pakages were used to generate graphs, to interpret the data and grapically display the results
    -  SciKit - This package is used to conduct linear regression predictive analysis
    -  Keras - This package is used to generate neural networks for predictive modelling
 
@@ -34,7 +34,7 @@ This section generates predictive linear regression models inorder to predict th
 #### 4.  Predictive modelling using neural networks
 This section generates a predictive model, using the Keras package, to generate neural networks inorder to predict the median house prices. 
 
-#### 5.  Comparison of the predict models results
+#### 5.  Comparison of the predictive models results
 This section compares the results of the of the predition models performance, in predicting the median house values.
 
 #### How to download Anaconda
