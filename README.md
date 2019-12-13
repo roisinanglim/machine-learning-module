@@ -4,37 +4,37 @@
 
 This repository contains and analysis of the Boston House Price dataset. The report is created using a jupyter notebook. 
 
-#### The analysis consists of -
+#### Jupyter Notebook Contents -
 
-   -  Explanation and exploration of the boston house price dataset 
-   -  Inferential Statistics
-   -  Predictive linear regression modelling
-   -  Predictive modelling using neural networks
-   -  Comparison of the predict models results
+   1. Explanation and exploration of the boston house price dataset 
+   2. Inferential Statistics
+   3. Predictive linear regression modelling
+   4. Predictive modelling using neural networks
+   5. Comparison of the predict models results
 
 #### Python Packages
 The following packages are used in this report and can all be downloaded as part of the anaconda package.
 
-    Numpy - This is used to conduct statistical analysis on the dataset
-    Pandas - This is used to put the imported data into dataframes
-    Matplotlib - This pakage is used to generate graphs, to interpret the data and grapically display the results
-    SciKit - This package is used to conduct linear regression predictive analysis
-    Keras - This package is used to generate neural networks for predictive modelling
+   -  Numpy - This is used to conduct statistical analysis on the dataset
+   -  Pandas - This is used to put the imported data into dataframes
+   -  Matplotlib - This pakage is used to generate graphs, to interpret the data and grapically display the results
+   -  SciKit - This package is used to conduct linear regression predictive analysis
+   -  Keras - This package is used to generate neural networks for predictive modelling
 
-#### Explanation and Exploration 
+#### 1.  Explanation and Exploration 
 This section outlines what is contained in the dataset. The data is cleaned and plotted in order to get an understanding of the features within the dataset.
 
-#### Inferential Statistics 
+#### 2.  Inferential Statistics 
 This section contains an analysis on whether there is a significant difference in median house prices
 between houses that are along the Charles river and those that aren’t.
 
-#### Predictive linear regression modelling
+#### 3. Predictive linear regression modelling
 This section generates predictive linear regression models inorder to predict the median house prices. Two techniques are compared. These consist of a multiple linear regression, using both manual feature elimination and cross validated recursive feature elimination.
 
-#### Predictive modelling using neural networks
+#### 4.  Predictive modelling using neural networks
 This section generates a predictive model, using the Keras package, to generate neural networks inorder to predict the median house prices. 
 
-#### Comparison of the predict models results
+#### 5.  Comparison of the predict models results
 This section compares the results of the of the predition models performance, in predicting the median house values.
 
 #### How to download Anaconda
