@@ -2,7 +2,7 @@
 
 ## The Boston House Price Dataset Analysis
 
-This repository contains and analysis of the Boston House Price dataset. The report is created using a jupyter notebook. 
+This repository contains an analysis of the Boston House Price dataset. The report is created using a jupyter notebook. 
 
 #### Jupyter Notebook Contents 
 
